@@ -46,7 +46,11 @@ I’m a 20-year-old backend developer and server admin who loves performance, au
 ---
 
 ## 🐍 Contribution Snake  
-![snake gif](https://github.com/Darlix-M/Darlix-M/blob/output/github-contribution-grid-snake.svg)
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Darlix-M/Darlix-M/output/snake.svg" alt="Snake animation" />
+
+###
 
 ---
 
