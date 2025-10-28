@@ -6,7 +6,6 @@ I’m a 20-year-old backend developer and server admin who loves performance, au
 ⚙️ Backend / Minecraft Developer
 🐧 Linux & DevOps Enthusiast 
 
----
 
 ## 🌐 Socials  
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/_Darlix_)  
@@ -45,8 +44,7 @@ I’m a 20-year-old backend developer and server admin who loves performance, au
 
 ---
 
-### ✍️ Random Dev Quote  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+<img src="https://raw.githubusercontent.com/Darlix-M/Darlix-M/output/snake.svg" alt="Snake animation" />
 
 ---
 
